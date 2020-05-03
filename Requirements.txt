@@ -1,0 +1,12 @@
+Software Requirements:
+		Jupyter Notebook
+
+Modules need to install By using Following Command:
+			pip install pandas
+			pip install googletrans
+			pip install SpeechRecognition
+			pip install tkinter
+pandas is used to show list all languages that user can choose
+googletrans module is used to translate languge of user selected
+speechrecongnition module is used to recongnize the user voce input
+tkinter module is used to upload a file by user
